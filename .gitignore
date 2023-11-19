@@ -1,0 +1,5 @@
+node_modules/
+.env
+fullchain.pem
+privkey.pem
+keys.json
